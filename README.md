@@ -8,7 +8,7 @@ developer: https://t.me/pysmart
 
 # STEPS TO FOLLOW
 - Set Up Instagram API Credentials
-- You'll need an APIs from Instagram
+- You'll need APIs from Instagram
  
 <b>ALSO AVAILABLE FOR INSTAGRAM MASS DMs</b>
 
