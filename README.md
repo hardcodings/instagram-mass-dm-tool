@@ -34,4 +34,4 @@ developer: https://t.me/pysmart
 Ensure that the users.txt file is in the same directory as the script or provide an absolute path.
 For sending messages to INSTAGRAM USERS, You'll have to scrape the users firstly
 
-sending automated messages to instagram  users after scraping the users fromn Instagram accounts
+sending automated messages to instagram  users after scraping the users fromn bulk Instagram accounts
