@@ -6,7 +6,7 @@ developer: https://t.me/pysmart
 ![ig](https://github.com/user-attachments/assets/b183d66e-98fc-4ebc-9127-f7f8cadceab0)
 
 
-# STEPS TO FOLLOW
+# STEPS TO FOLLOW CORRECTLY
 - Set Up Instagram API Credentials
 - You'll need API CREDENTIALS from Instagram
  
