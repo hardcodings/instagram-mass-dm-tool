@@ -37,3 +37,4 @@ For sending messages to INSTAGRAM USERS, You'll have to scrape the users firstly
 sending automated messages to instagram  users after scraping the users fromn bulk Instagram accounts
 
 INSTAGRAM MASS DM TOOL
+INSTAGRAM BULK MESSAGE SENDER
