@@ -39,3 +39,4 @@ sending automated messages to instagram  users after scraping the users fromn bu
 INSTAGRAM MASS DM TOOL
 INSTAGRAM BULK MESSAGE SENDER
 INSTAGRAM SENDER TOOL
+INSTAGRAM AUTO SEND TOOL
