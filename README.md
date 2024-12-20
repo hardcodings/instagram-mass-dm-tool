@@ -1,8 +1,7 @@
 # instagram-mass-dm-tool
 This bot is meant for sending mass messages to bulk Instagram users. 
 
-developer: https://t.me/pysmart
-
+developer: https://t.me/profcoders
 ![ig](https://github.com/user-attachments/assets/b183d66e-98fc-4ebc-9127-f7f8cadceab0)
 
 
@@ -12,13 +11,13 @@ developer: https://t.me/pysmart
  
 <b>ALSO AVAILABLE FOR INSTAGRAM MASS DMs</b>
 
-developer: https://t.me/pysmart
+developer: https://t.me/profcoders
 
 - Acquire your APIs.
 
 <b>ALSO AVAILABLE FOR INSTAGRAM MASS DMs</b>
 
-developer: https://t.me/pysmart
+developer: https://t.me/profcoders
 
 # How It Works:
 - Session Saving: The INSTAGRAM APIs automatically saves the session into a file 
@@ -28,7 +27,7 @@ developer: https://t.me/pysmart
 
 <b>ALSO AVAILABLE FOR INSTAGRAM MASS DMs</b>
 
-developer: https://t.me/pysmart
+developer: https://t.me/profcoders
 
 # Notes
 Ensure that the users.txt file is in the same directory as the script or provide an absolute path.
